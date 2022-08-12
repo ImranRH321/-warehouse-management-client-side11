@@ -1,0 +1,18 @@
+.bgColor {
+  background-image: linear-gradient(
+    to right top,
+    #000000,
+    #140a0f,
+    #1e121c,
+    #25192a,
+    #27213b,
+    #27213b,
+    #27213b,
+    #27213b,
+    #25192a,
+    #1e121c,
+    #140a0f,
+    #000000
+  );
+  color: whitesmoke;
+}
